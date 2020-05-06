@@ -1,0 +1,6 @@
+{
+  "css": "css/columns.css",
+  "listingTemplate": "listing/index.html",
+  "theme": "white",
+  "highlightTheme": "default"
+}
